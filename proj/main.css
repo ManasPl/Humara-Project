@@ -124,6 +124,11 @@ form{
     border-radius:4px;
     width:90%;
 }
+.button{
+    display:flex;
+    justify-content: flex-end;
+    margin-bottom: 40px;
+}
 .button button{
     padding:11px;
     width:150px;
